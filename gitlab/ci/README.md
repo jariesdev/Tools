@@ -1,4 +1,4 @@
-# install gitlab runners
+# Install gitlab runners
 ## https://docs.gitlab.com/runner/install/linux-manually.html
 
 ## Linux x86-64
